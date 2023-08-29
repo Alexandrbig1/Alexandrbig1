@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Alex 👋 I'm a Web Developer 🚀">
+</p>
+
 <h1 align="center">Hi 👋, I'm Oleksandr Smagin</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img
