@@ -1,4 +1,4 @@
-![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Oleksandr Smagin</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img
