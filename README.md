@@ -1,8 +1,3 @@
-<img
-  src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif"
-  width="100"
-/>
-
 <h1 align="center">Hi 👋, I'm Oleksandr Smagin</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img
