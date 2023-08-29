@@ -23,7 +23,7 @@
 ![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight alt="alexandrbig1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrbig1&show_icons=true&locale=en&theme=tokyonight alt="alexandrbig1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alexandrbig1" /></p>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
