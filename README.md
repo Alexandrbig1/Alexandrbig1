@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
+![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm Oleksandr Smagin</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img
