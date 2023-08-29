@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Smagin</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">Front-end Web Developer with a passion for creating elegant and responsive web applications!</h3>
 <img
   align="right"
   width="400"
