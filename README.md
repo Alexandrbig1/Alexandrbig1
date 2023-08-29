@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Smagin</h1>
 <h3 align="center">A passionate Web Developer</h3>
+<img
+  align="right"
+  width="400"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+  alt="Coding"
+/>
 
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/alexsmagin1/sites](https://app.netlify.com/teams/alexsmagin1/sites)
