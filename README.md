@@ -1,4 +1,4 @@
-<h1 align="center">Hi (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Oleksandr Smagin</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleksandr Smagin
 <h3 align="center">A passionate Web Developer</h3>
 <img
   align="right"
