@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oleksandr Smagin</h1>
+<h1 align="center">Hi 👋, I'm Alex Smagin</h1>
 <h3 align="center">A passionate Web Developer</h3>
 <img
   align="right"
