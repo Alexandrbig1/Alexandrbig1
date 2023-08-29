@@ -8,7 +8,7 @@
 />
 
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/alexsmagin1/sites](https://app.netlify.com/teams/alexsmagin1/sites)
+👨‍💻 All of my projects are available at [https://app.netlify.com/teams/alexsmagin1/sites](https://app.netlify.com/teams/alexsmagin1/sites)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,11 +23,11 @@
 ![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrbig1&show_icons=true&locale=en&layout=compact" alt="alexandrbig1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight alt="alexandrbig1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrbig1&show_icons=true&locale=en" alt="alexandrbig1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alexandrbig1" /></p>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrbig1&" alt="alexandrbig1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrbig1&theme=tokyonight" alt="alexandrbig1" /></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
