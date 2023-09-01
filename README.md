@@ -8,7 +8,7 @@
 />
 
 
-👨‍💻 All of my projects are available at: [https://app.netlify.com/teams/alexsmagin1/sites](https://app.netlify.com/teams/alexsmagin1/sites)
+👨‍💻 All of my **projects** are available at: [https://app.netlify.com/teams/alexsmagin1/sites](https://app.netlify.com/teams/alexsmagin1/sites)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
