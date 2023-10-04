@@ -31,6 +31,8 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrbig1&theme=tokyonight" alt="alexandrbig1" /></p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=228be6)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
