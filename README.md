@@ -25,14 +25,19 @@
 ![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
 
 <div>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alexandrbig1" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alexandrbig1" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrbig1&theme=tokyonight" alt="alexandrbig1" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alexandrbig1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alexandrbig1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrbig1&theme=tokyonight" alt="alexandrbig1" /></p>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 </div>
+
+<div>
 
 ![](https://komarev.com/ghpvc/?username=Alexandrbig1&style=plastic&color=228be6)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+</div>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
