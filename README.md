@@ -20,6 +20,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Alexandrbig1&style=plastic&color=228be6)
+![GitHub User's stars](https://img.shields.io/github/stars/Alexandrbig1?style=plastic&logoColor=%23228be6)
 <a href="https://www.codewars.com/users/Alexandrbig1"><img src="https://www.codewars.com/users/Alexandrbig1/badges/small">
 
 <h3 align="left">Languages and Tools:</h3>
