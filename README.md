@@ -8,7 +8,7 @@
 />
 
 
-Check Out My **Portfolio** website to explore my projects and see how I can contribute to your team or project: [https://alexsmagin.dev](https://alexsmagin.dev). If you find something that resonates with you, feel free to react out!
+Check Out My **Portfolio** website to explore my projects and see how I can contribute to your team or project: [alexsmagin.dev](https://alexsmagin.dev). If you find something that resonates with you, feel free to react out!
 
 👨‍💻 All of my projects are available at: [https://app.netlify.com/teams/alexsmagin1/sites](https://app.netlify.com/teams/alexsmagin1/sites)
 
