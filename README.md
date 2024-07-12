@@ -8,9 +8,9 @@
 />
 
 
-🚀 Check Out My **Portfolio** website to explore my projects and see how I can contribute to your team or project: [𝐚𝐥𝐞𝐱𝐬𝐦𝐚𝐠𝐢𝐧.𝐝𝐞𝐯](https://alexsmagin.dev). If you find something that resonates with you, feel free to react out!💼 💻
+🚀 Check Out My **Portfolio** website to explore my 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 and see how I can contribute to your team or project: [𝐚𝐥𝐞𝐱𝐬𝐦𝐚𝐠𝐢𝐧.𝐝𝐞𝐯](https://alexsmagin.dev). If you find something that resonates with you, feel free to react out!💼 💻
 
-👨‍💻 All of my 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 are available at: [🅰🅻🅴🆇🆂🅼🅰🅶🅸🅽.🅳🅴🆅](https://www.alexsmagin.dev/)
+👨‍💻 [🅰🅻🅴🆇🆂🅼🅰🅶🅸🅽.🅳🅴🆅](https://www.alexsmagin.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
