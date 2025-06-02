@@ -1,5 +1,5 @@
 **<h1 align="center">Hi<span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span>, I'm Alex Smagin</h1>**
-<h3 align="center">Full Stack Web Developer with a passion for creating modern and responsive web applications!</h3>
+<h3 align="center">Software Engineer building full-stack applications with React, Node.js, TypeScript, and AWS. Passionate about clean code, open source, and developer growth.</h3>
 <img
   align="right"
   width="400"
