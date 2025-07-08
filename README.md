@@ -25,6 +25,7 @@
 <div align="left">
 <img src="./docs/images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="84" />
 <img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" />
+<img src="./docs/images/git.svg" alt="Introduction to GIT" width="84" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
