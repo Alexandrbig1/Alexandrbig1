@@ -24,6 +24,7 @@
 <h3 align="left">Licenses & certifications:</h3>
 <div align="left">
 <img src="./docs/images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="84" />
+<img src="./docs/images/aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest: Cloud Practitioner" width="84" />
 <img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" />
 <img src="./docs/images/github.svg" alt="Introduction to GitHub" width="84" />
 <img src="./docs/images/github-products.svg" alt="Introduction to GitHub's products" width="84" />
