@@ -21,6 +21,8 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Alexandrbig1?style=plastic&logoColor=%23228be6)
 <a href="https://www.codewars.com/users/Alexandrbig1"><img src="https://www.codewars.com/users/Alexandrbig1/badges/small">
 
+<a href="https://www.buymeacoffee.com/alexsmagin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <h3 align="left">Licenses & certifications:</h3>
 <div align="left">
 <img src="./docs/images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="84" />
