@@ -29,10 +29,6 @@
 <img src="./docs/images/github-foundations-badge.svg" alt="GitHub Foundations issued by Microsoft" width="84" />
 <img src="./docs/images/aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest: Cloud Practitioner" width="84" />
 <img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" />
-<img src="./docs/images/github-learning-path.svg" alt="Microsoft GitHub Learning Path" width="84" />
-<img src="./docs/images/github.svg" alt="Introduction to GitHub" width="84" />
-<img src="./docs/images/github-products.svg" alt="Introduction to GitHub's products" width="84" />
-<img src="./docs/images/git.svg" alt="Introduction to GIT" width="84" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
