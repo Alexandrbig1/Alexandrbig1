@@ -32,6 +32,9 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlexSmagin/E76F7596C386F904?sharingId=A0F1707449AE93A6" target="_blank"><img src="./docs/images/github-foundations-badge.svg" alt="GitHub Foundations issued by Microsoft" width="84" /></a>
 <a href="#" target="_blank"><img src="./docs/images/github-actions.svg" alt="GitHub Actions issued by Microsoft" width="84" /></a>
 <a href="https://www.credly.com/badges/65d96a16-fb79-4abc-82fc-0a2b639d43d0/public_url" target="_blank"><img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" /></a>
+<a href="https://www.credly.com/badges/628e51a9-d373-44b9-a787-fd446ca46d99/public_url" target="_blank"><img src="./docs/images/mongodb-relational-document-model.png" alt="From Relational Model (SQL) to MongoDB's Document Model" width="84" /></a>
+<a href="https://www.credly.com/badges/804cc2d9-ea74-4b38-a646-1fce226726b5/public_url" target="_blank"><img src="./docs/images/mongodb-crud-operations.png" alt="CRUD Operations in MongoDB" width="84" /></a>
+<a href="https://www.credly.com/badges/a9480ecc-1c37-4b6c-8b6b-56c6ab7e12bd/public_url" target="_blank"><img src="./docs/images/mongodb-securing-mongodb-atlas-authentication-authorization.png" alt="Securing MongoDB Atlas: Authentication & Authorization" width="84" /></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
