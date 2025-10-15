@@ -28,9 +28,8 @@
 <a href="https://www.credly.com/badges/cedebac3-f6e9-4e69-b71e-ff07776046f2/public_url" target="_blank"><img src="./docs/images/mongodb-associate-developer.png" alt="MongoDB Associate Developer" width="84" /></a>
 <a href="https://www.credly.com/badges/758441d4-1adc-4d99-a23a-d6718b4ef874/public_url" target="_blank"><img src="./docs/images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="84" /></a>
 <a href="https://www.credly.com/badges/b73aae7d-39fd-44d0-8219-877865614a7a/public_url" target="_blank"><img src="./docs/images/aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest: Cloud Practitioner" width="84" /></a>
-<a href="#" target="_blank"><img src="./docs/images/microsoft-certified-github-actions.svg" alt="GitHub Actions issued by Microsoft" width="84" /></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlexSmagin/E76F7596C386F904?sharingId=A0F1707449AE93A6" target="_blank"><img src="./docs/images/github-foundations-badge.svg" alt="GitHub Foundations issued by Microsoft" width="84" /></a>
-<a href="#" target="_blank"><img src="./docs/images/github-actions.svg" alt="GitHub Actions issued by Microsoft" width="84" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AlexSmagin/449FECB30E8B8965?sharingId=A0F1707449AE93A6" target="_blank"><img src="./docs/images/github-actions.svg" alt="GitHub Actions issued by Microsoft" width="84" /></a>
 <a href="https://www.credly.com/badges/65d96a16-fb79-4abc-82fc-0a2b639d43d0/public_url" target="_blank"><img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" /></a>
 <a href="https://www.credly.com/badges/628e51a9-d373-44b9-a787-fd446ca46d99/public_url" target="_blank"><img src="./docs/images/mongodb-relational-document-model.png" alt="From Relational Model (SQL) to MongoDB's Document Model" width="84" /></a>
 <a href="https://www.credly.com/badges/804cc2d9-ea74-4b38-a646-1fce226726b5/public_url" target="_blank"><img src="./docs/images/mongodb-crud-operations.png" alt="CRUD Operations in MongoDB" width="84" /></a>
