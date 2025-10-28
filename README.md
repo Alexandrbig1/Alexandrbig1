@@ -45,7 +45,8 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alexandrbig1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrbig1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="alexandrbig1" /></p>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrbig1&theme=tokyonight" alt="alexandrbig1" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrbig1&theme=tokyonight" alt="alexandrbig1" /></p> -->
+![Alexandrbig1's GitHub Banner](https://raw.githubusercontent.com/Alexandrbig1/Alexandrbig1/main/banner.png)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
